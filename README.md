@@ -4,6 +4,7 @@
 ![Category](https://img.shields.io/badge/Category-Helpdesk-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Excel%2FCSV-yellow)
+![Type](https://img.shields.io/badge/Type-Simulation-purple)
 
 This project simulates a realistic ServiceNow-style ticketing system for Tier 1 IT support. It includes 7 fully documented incident scenarios covering common issues such as VPN access problems, MFA failures, password resets, shared drive permissions, and Outlook sync errors.
 
